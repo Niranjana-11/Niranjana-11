@@ -25,7 +25,7 @@
 
 ---
 
-### 💌 let's connect
+### 💌 Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-niranjana-rajesh"><img src="https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge" /></a>
@@ -34,7 +34,7 @@
 
 ---
 
-### 🧁 tech stack
+### 🧁 Tech stack
 
 <p align="center">
   <b>💻 Languages</b><br>
@@ -63,7 +63,7 @@
 
 ---
 
-### 🎀 favourite projects
+### 🎀 Favourite projects
 
 | | project | about |
 |---|---|---|
@@ -74,7 +74,7 @@
 
 ---
 
-### 📊 my stats
+### 📊 My stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Niranjana-11&show_icons=true&hide_border=true&hide_rank=true&bg_color=1a1025&title_color=F472B6&text_color=E9D5FF&icon_color=C4B5FD" />
