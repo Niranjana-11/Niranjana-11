@@ -10,16 +10,17 @@
 
 ### 🌷 about me
 
-🎀 B.Tech in **Computer Science and Engineering (Artificial Intelligence)** at Muthoot Institute of Technology and Science, Varikoli
-🌸 Love building things with **computer vision** and **LLMs**
-💜 IEEE SPICES 2026 author: *CAMRO, AI-Based Victim Detection Rescue Robot*
-🦋 Currently exploring agentic AI and deploying local LLMs
-🧠 AI & ML Intern at EWB Courses: integrated **Llama 3.2** (Ollama + LangChain) and deployed it on Linux with nginx
-🛡️ Built **NeonGuard**, a real-time A/V censoring pipeline using OpenCV, MediaPipe and faster-whisper
-🤖 Built **CAMRO**, an autonomous rescue robot with Arduino, ESP32-CAM and YOLO
-📚 Built **Reviso**, an AI study assistant that answers questions from your notes
-🎨 Creative Lead at CIC Club, MITS
-🏆 Hackathons and workshops: TinkHerHack 4.0, YOLO Hands-On Workshop, India AI Impact Summit (Pre-Event)
+🎀 B.Tech in **Computer Science and Engineering (Artificial Intelligence)** at Muthoot Institute of Technology and Science, Varikoli<br>
+🌸 Love building things with **computer vision** and **LLMs**<br>
+💜 IEEE SPICES 2026 author: *CAMRO, AI-Based Victim Detection Rescue Robot*<br>
+🦋 Currently exploring agentic AI and deploying local LLMs<br>
+🧠 AI & ML Intern at EWB Courses: integrated **Llama 3.2** (Ollama + LangChain) and deployed it on Linux with nginx<br>
+🛡️ Built **NeonGuard**, a real-time A/V censoring pipeline using OpenCV, MediaPipe and faster-whisper<br>
+🤖 Built **CAMRO**, an autonomous rescue robot with Arduino, ESP32-CAM and YOLO<br>
+📚 Built **Reviso**, an AI study assistant that answers questions from your notes<br>
+🎨 Creative Lead at CIC Club, MITS<br>
+🏆 Hackathons and workshops: TinkHerHack 4.0, YOLO Hands-On Workshop, India AI Impact Summit (Pre-Event)<br>
+🍓 Open to internships and placements in AI/ML
 
 > ✨ *"Always building, always growing."*
 
@@ -41,7 +42,6 @@
   <img src="https://img.shields.io/badge/Python-2D1B4E?style=flat-square&logo=python&logoColor=F9A8D4" />
   <img src="https://img.shields.io/badge/C-2D1B4E?style=flat-square&logo=c&logoColor=F9A8D4" />
   <img src="https://img.shields.io/badge/Java-2D1B4E?style=flat-square&logo=openjdk&logoColor=F9A8D4" />
-  <img src="https://img.shields.io/badge/JavaScript-2D1B4E?style=flat-square&logo=javascript&logoColor=F9A8D4" />
   <br><br>
   <b>🧠 AI &amp; Computer Vision</b><br>
   <img src="https://img.shields.io/badge/OpenCV-2D1B4E?style=flat-square&logo=opencv&logoColor=F9A8D4" />
