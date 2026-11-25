@@ -8,7 +8,7 @@
 
 ---
 
-### 🌷 about me
+### 🌷 About me
 
 🎀 B.Tech in **Computer Science and Engineering (Artificial Intelligence)** at Muthoot Institute of Technology and Science, Varikoli<br>
 🌸 Love building things with **computer vision** and **LLMs**<br>
@@ -20,7 +20,6 @@
 📚 Built **Reviso**, an AI study assistant that answers questions from your notes<br>
 🎨 Creative Lead at CIC Club, MITS<br>
 🏆 Hackathons and workshops: TinkHerHack 4.0, YOLO Hands-On Workshop, India AI Impact Summit (Pre-Event)<br>
-🍓 Open to internships and placements in AI/ML
 
 > ✨ *"Always building, always growing."*
 
