@@ -10,11 +10,11 @@
 
 ### 🌷 about me
 
-🎀 B.Tech CSE (AI) student at MITS, Varikoli
+🎀 B.Tech CSE (AI) student at Muthoot Institute of Technology and Science, Varikoli
 🌸 Love building things with **computer vision** and **LLMs**
 💜 IEEE SPICES 2026 author: *CAMRO, AI-Based Victim Detection Rescue Robot*
 🦋 Currently exploring agentic AI and deploying local LLMs
-🍓 Open to internships and placements in AI/ML
+
 
 > ✨ *"Always building, always growing."*
 
@@ -23,7 +23,7 @@
 ### 💌 let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/niranjanarajesh"><img src="https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/-niranjana-rajesh"><img src="https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:niranjanarajesh3210@gmail.com"><img src="https://img.shields.io/badge/Email-C4B5FD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
