@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=F472B6&center=true&vCenter=true&width=800&height=45&lines=Hi+there!+%F0%9F%8C%B8;Computer+Science+and+Engineering+(Artificial+Intelligence);Turning+coffee+and+code+into+cool+projects+%E2%98%95" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=F472B6&center=true&vCenter=true&width=900&height=45&lines=Hi+there!+%F0%9F%8C%B8;Computer+Science+and+Engineering+(Artificial+Intelligence)+Undergraduate;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+with+Computer+Vision+%26+LLMs+%F0%9F%91%80;IEEE+SPICES+2026+Author+%F0%9F%93%84;Turning+coffee+and+code+into+cool+projects+%E2%98%95" />
 </p>
 
 ---
@@ -20,7 +20,6 @@
 📚 Built **Reviso**, an AI study assistant that answers questions from your notes
 🎨 Creative Lead at CIC Club, MITS
 🏆 Hackathons and workshops: TinkHerHack 4.0, YOLO Hands-On Workshop, India AI Impact Summit (Pre-Event)
-🍓 Open to internships and placements in AI/ML
 
 > ✨ *"Always building, always growing."*
 
@@ -29,8 +28,8 @@
 ### 💌 let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/-niranjana-rajesh"><img src="https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:niranjanarajesh3210@gmail.com"><img src="https://img.shields.io/badge/Email-C4B5FD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/-niranjana-rajesh"><img src="https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge" /></a>
+  <a href="mailto:niranjanarajesh3210@gmail.com"><img src="https://img.shields.io/badge/Email-C4B5FD?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -38,20 +37,29 @@
 ### 🧁 tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-F9A8D4?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-C4B5FD?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-F9A8D4?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-C4B5FD?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F9A8D4?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-C4B5FD?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-F9A8D4?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-C4B5FD?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-F9A8D4?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-C4B5FD?style=flat-square&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-F9A8D4?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-C4B5FD?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-F9A8D4?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-C4B5FD?style=flat-square&logo=git&logoColor=white" />
+  <b>💻 Languages</b><br>
+  <img src="https://img.shields.io/badge/Python-2D1B4E?style=flat-square&logo=python&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/C-2D1B4E?style=flat-square&logo=c&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/Java-2D1B4E?style=flat-square&logo=openjdk&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/JavaScript-2D1B4E?style=flat-square&logo=javascript&logoColor=F9A8D4" />
+  <br><br>
+  <b>🧠 AI &amp; Computer Vision</b><br>
+  <img src="https://img.shields.io/badge/OpenCV-2D1B4E?style=flat-square&logo=opencv&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/YOLO-2D1B4E?style=flat-square" />
+  <img src="https://img.shields.io/badge/MediaPipe-2D1B4E?style=flat-square&logo=google&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/LangChain-2D1B4E?style=flat-square&logo=langchain&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/Ollama-2D1B4E?style=flat-square&logo=ollama&logoColor=F9A8D4" />
+  <br><br>
+  <b>🌐 Web &amp; Database</b><br>
+  <img src="https://img.shields.io/badge/React-2D1B4E?style=flat-square&logo=react&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/MySQL-2D1B4E?style=flat-square&logo=mysql&logoColor=F9A8D4" />
+  <br><br>
+  <b>🛠️ Tools</b><br>
+  <img src="https://img.shields.io/badge/Linux-2D1B4E?style=flat-square&logo=linux&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/Nginx-2D1B4E?style=flat-square&logo=nginx&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/Arduino-2D1B4E?style=flat-square&logo=arduino&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/Git-2D1B4E?style=flat-square&logo=git&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=F9A8D4" />
 </p>
 
 ---
